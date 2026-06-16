@@ -13,4 +13,4 @@ Multiple analytical perspectives are covered in the dashboard:
 
 The dashboard includes **interactive slicers and filters** that allow users to explore data by outlet location type, outlet size, and item type, enabling customized and focused analysis.
 
-Overall, this project demonstrates the effective use of **Power BI, DAX-based KPIs, and interactive visualizations** to transform raw retail data into meaningful insights. It highlights practical skills in data modeling, dashboard design, and business analytics, supporting data-driven decision-making.
+Overall, this project demonstrates the effective use of **Power BI, DAX-based KPIs, and interactive visualizations** to transform raw retail data into meaningful insights. It highlights practical skills in data modeling, and dashboard design, and business analytics, supporting data-driven decision-making.
